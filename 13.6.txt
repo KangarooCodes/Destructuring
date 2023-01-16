@@ -1,0 +1,19 @@
+1)	8,	1846
+
+2)	yearNeptuneDiscovered: 1846,		yearMarsDiscovered: 1659
+
+3)	Your name is Alejandro and you like purple
+	Your name is Mellis and you like green
+	Your name is and you like green
+
+4)	Raindrops on roses
+	Whiskers on kittens
+	["Bright copper kettles", "warm woolen mittens", "Brown paper packages tied up with strings"]
+
+5)	[10, 30, 20]
+
+6)	const {a,b} = obj.numbers
+
+7)	[arr[0], arr[1]] = [arr[1], arr[0]]
+
+8)	const raceResults = ([first, second, third, ...rest]) => ({first, second, third, rest})
